@@ -5,6 +5,6 @@ A Python package to find the **nearest genes** from two BED files using Ensembl 
 ## 🧪 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/nearest_common_genes.git
+git clone [https://github.com/Sagnik-Epigen/nearest_common_genes.git]
 cd nearest_common_genes
 pip install .
